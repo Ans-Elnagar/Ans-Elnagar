@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ans</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **Node.js and React-Native**
-
 - 📫 How to reach me **AnsElnagar@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IUe4zHOvwBAUUdQIFw-zS1LEzzTBsJMc/view?usp=sharing](https://drive.google.com/file/d/14MRDfHP5YsQ1O_xE3hGM-UbPAUvEgZUi/view?usp=sharing)
