@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ans</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
+<h3 align="center">Experienced software engineer with a knack for building everything from small console apps to robust big data systems. Passionate about backend development and big data technologies. Dedicated to continuous learning and staying updated with the latest trends in tech.</h3>
 
 - 📫 How to reach me **AnsElnagar@outlook.com**
 
